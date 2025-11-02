@@ -1,6 +1,6 @@
 import requests
-import sys
 import json
+
 
 API_KEY = "134953a5d8b4eb107baf0f732e9b8ce1"
 request_url = "http://api.openweathermap.org/data/2.5/weather"
